@@ -1,6 +1,3 @@
-# burger
-* Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
-
 ## Eat-Da-Burger sequelized! 
 
 A MySQL / Express / Node /Handlebars/ Sequelize  application with a homemade ORM, following the MVC design pattern. 
