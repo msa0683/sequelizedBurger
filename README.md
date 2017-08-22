@@ -19,4 +19,4 @@ This application is a working demo of a MySQL database connection using Sequeliz
    - MySQL
    - Sequelize
 
-FoR yummy burgers, click [here](https://secure-castle-51762.herokuapp.com/)
+For yummy burgers, click [here](https://secure-castle-51762.herokuapp.com/)
