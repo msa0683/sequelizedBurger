@@ -15,7 +15,6 @@ This application is a working demo of a MySQL database connection using Sequeliz
    - express-handlebars
    - Bootstrap
    - Express
-   - Handlebars
    - MySQL
    - Sequelize
 
